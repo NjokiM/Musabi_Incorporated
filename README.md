@@ -7,22 +7,22 @@ The website of Musabi Incorporated — a multidisciplinary African design, resea
 musabi-incorporated/
 │
 ├── README.md
-├── index.html / /home
+├── index.html/home
 │
-├── /about
-│   ├── /our-story
-│   ├── /our-belief
-│   ├── /our-vision
-│   ├── /our-mission
-│   ├── /our-values
-│   ├── /how-we-work
-│   └── /our-people
+├──/about
+│   ├──/our-story
+│   ├──/our-belief
+│   ├──/our-vision
+│   ├──/our-mission
+│   ├──/our-values
+│   ├──/how-we-work
+│   └──/our-people
 │
-├── /entities
+├──/entities
 │   │
-│   ├── /architecture-studio
-│   │   ├── /overview
-│   │   ├── /services
+│   ├──/architecture-studio
+│   │   ├──/overview
+│   │   ├──/services
 │   │   ├── /projects
 │   │   ├── /research
 │   │   └── /contact
