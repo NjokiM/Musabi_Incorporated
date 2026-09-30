@@ -4,92 +4,91 @@ The website of Musabi Incorporated — a multidisciplinary African design, resea
 
 > Building a Resilient Future — *the parts make the whole.*
 
-WEBSITE SITE MAP
-
-MUSABI INCORPORATED
+musabi-incorporated/
 │
-├── HOME
+├── README.md                          # Project documentation (this file)
+├── index.html / /home                 # HOME
 │
-├── ABOUT
-│   ├── Our Story
-│   ├── Our Belief
-│   ├── Our Vision
-│   ├── Our Mission
-│   ├── Our Values
-│   ├── How We Work
-│   └── Our People
+├── /about                             # ABOUT
+│   ├── /our-story                     # Our Story
+│   ├── /our-belief                    # Our Belief
+│   ├── /our-vision                    # Our Vision
+│   ├── /our-mission                   # Our Mission
+│   ├── /our-values                    # Our Values
+│   ├── /how-we-work                   # How We Work
+│   └── /our-people                    # Our People
 │
-├── ENTITIES
+├── /entities                          # ENTITIES (Core Sub-Brands)
 │   │
-│   ├── Architecture Studio
-│   │   ├── Overview
-│   │   ├── Services
-│   │   ├── Projects
-│   │   ├── Research
-│   │   └── Contact
+│   ├── /architecture-studio           # Architecture Studio
+│   │   ├── /overview                  # Overview
+│   │   ├── /services                  # Services
+│   │   ├── /projects                  # Projects
+│   │   ├── /research                  # Research
+│   │   └── /contact                   # Contact
 │   │
-│   ├── Creative
-│   │   ├── Overview
-│   │   ├── Services
-│   │   ├── Work
-│   │   └── Contact
+│   ├── /creative                      # Creative
+│   │   ├── /overview                  # Overview
+│   │   ├── /services                  # Services
+│   │   ├── /work                      # Work
+│   │   └── /contact                   # Contact
 │   │
-│   ├── Urban Lab
-│   │   ├── Overview
-│   │   ├── Research
-│   │   ├── Urban Projects
-│   │   ├── Publications
-│   │   └── Insights
+│   ├── /urban-lab                     # Urban Lab
+│   │   ├── /overview                  # Overview
+│   │   ├── /research                  # Research
+│   │   ├── /urban-projects            # Urban Projects
+│   │   ├── /publications              # Publications
+│   │   └── /insights                  # Insights
 │   │
-│   ├── Development
-│   │   ├── Overview
-│   │   ├── Projects
-│   │   ├── Opportunities
-│   │   └── Partnerships
+│   ├── /development                   # Development
+│   │   ├── /overview                  # Overview
+│   │   ├── /projects                  # Projects
+│   │   ├── /opportunities             # Opportunities
+│   │   └── /partnerships              # Partnerships
 │   │
-│   ├── Foundation
-│   │   ├── Overview
-│   │   ├── Programmes
-│   │   ├── Community
-│   │   ├── Impact
-│   │   └── Get Involved
+│   ├── /foundation                    # Foundation
+│   │   ├── /overview                  # Overview
+│   │   ├── /programmes                # Programmes
+│   │   ├── /community                 # Community
+│   │   ├── /impact                    # Impact
+│   │   └── /get-involved              # Get Involved
 │   │
-│   └── Ventures
-│       ├── Overview
-│       ├── Portfolio
-│       ├── Opportunities
-│       └── Partnerships
+│   └── /ventures                      # Ventures
+│       ├── /overview                  # Overview
+│       ├── /portfolio                 # Portfolio
+│       ├── /opportunities             # Opportunities
+│       └── /partnerships              # Partnerships
 │
-├── PROJECTS
-│   ├── Architecture
-│   ├── Creative
-│   ├── Urban
-│   ├── Development
-│   ├── Foundation
-│   └── Ventures
+├── /projects                          # PROJECTS (Master Portfolio)
+│   ├── /architecture                  # Architecture Portfolio
+│   ├── /creative                      # Creative Portfolio
+│   ├── /urban                         # Urban Projects
+│   ├── /development                   # Development Projects
+│   ├── /foundation                    # Foundation Initiatives
+│   └── /ventures                      # Venture Portfolio
 │
-├── JOURNAL
-│   ├── Ideas
-│   ├── Research
-│   ├── Projects
-│   ├── Cities
-│   ├── Design
-│   ├── Sustainability
-│   └── Community
+├── /journal                           # JOURNAL (Editorial & Insights)
+│   ├── /ideas                         # Ideas
+│   ├── /research                      # Research
+│   ├── /projects                      # Projects
+│   ├── /cities                        # Cities
+│   ├── /design                        # Design
+│   ├── /sustainability                # Sustainability
+│   └── /community                     # Community
 │
-├── MOSES MUSABI
-│   ├── Profile
-│   ├── Architecture
-│   ├── Urban Policy
-│   ├── Research
-│   ├── Writing
-│   ├── Projects
-│   ├── Speaking
-│   └── CV
+├── /moses-musabi                      # MOSES MUSABI (Personal Brand/Thought Leadership)
+│   ├── /profile                       # Profile
+│   ├── /architecture                  # Architecture Focus
+│   ├── /urban-policy                  # Urban Policy
+│   ├── /research                      # Research
+│   ├── /writing                       # Writing
+│   ├── /projects                      # Projects
+│   ├── /speaking                      # Speaking Engagements
+│   └── /cv                            # Curriculum Vitae
 │
-├── CAREERS
+├── /careers                           # CAREERS
 │
-└── CONTACT
+└── /contact                           # CONTACT
 
 
 ## Technology
