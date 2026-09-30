@@ -91,6 +91,7 @@ MUSABI INCORPORATED
 │
 └── CONTACT
 
+
 ## Technology
 
 - **Next.js 15** (App Router, fully static) + **TypeScript**
