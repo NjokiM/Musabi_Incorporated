@@ -6,89 +6,89 @@ The website of Musabi Incorporated — a multidisciplinary African design, resea
 
 musabi-incorporated/
 │
-├── README.md                          # Project documentation (this file)
-├── index.html / /home                 # HOME
+├── README.md
+├── index.html / /home
 │
-├── /about                             # ABOUT
-│   ├── /our-story                     # Our Story
-│   ├── /our-belief                    # Our Belief
-│   ├── /our-vision                    # Our Vision
-│   ├── /our-mission                   # Our Mission
-│   ├── /our-values                    # Our Values
-│   ├── /how-we-work                   # How We Work
-│   └── /our-people                    # Our People
+├── /about
+│   ├── /our-story
+│   ├── /our-belief
+│   ├── /our-vision
+│   ├── /our-mission
+│   ├── /our-values
+│   ├── /how-we-work
+│   └── /our-people
 │
-├── /entities                          # ENTITIES (Core Sub-Brands)
+├── /entities
 │   │
-│   ├── /architecture-studio           # Architecture Studio
-│   │   ├── /overview                  # Overview
-│   │   ├── /services                  # Services
-│   │   ├── /projects                  # Projects
-│   │   ├── /research                  # Research
-│   │   └── /contact                   # Contact
+│   ├── /architecture-studio
+│   │   ├── /overview
+│   │   ├── /services
+│   │   ├── /projects
+│   │   ├── /research
+│   │   └── /contact
 │   │
-│   ├── /creative                      # Creative
-│   │   ├── /overview                  # Overview
-│   │   ├── /services                  # Services
-│   │   ├── /work                      # Work
-│   │   └── /contact                   # Contact
+│   ├── /creative
+│   │   ├── /overview
+│   │   ├── /services
+│   │   ├── /work
+│   │   └── /contact
 │   │
-│   ├── /urban-lab                     # Urban Lab
-│   │   ├── /overview                  # Overview
-│   │   ├── /research                  # Research
-│   │   ├── /urban-projects            # Urban Projects
-│   │   ├── /publications              # Publications
-│   │   └── /insights                  # Insights
+│   ├── /urban-lab
+│   │   ├── /overview
+│   │   ├── /research
+│   │   ├── /urban-projects
+│   │   ├── /publications
+│   │   └── /insights
 │   │
-│   ├── /development                   # Development
-│   │   ├── /overview                  # Overview
-│   │   ├── /projects                  # Projects
-│   │   ├── /opportunities             # Opportunities
-│   │   └── /partnerships              # Partnerships
+│   ├── /development
+│   │   ├── /overview
+│   │   ├── /projects
+│   │   ├── /opportunities
+│   │   └── /partnerships
 │   │
-│   ├── /foundation                    # Foundation
-│   │   ├── /overview                  # Overview
-│   │   ├── /programmes                # Programmes
-│   │   ├── /community                 # Community
-│   │   ├── /impact                    # Impact
-│   │   └── /get-involved              # Get Involved
+│   ├── /foundation
+│   │   ├── /overview
+│   │   ├── /programmes
+│   │   ├── /community
+│   │   ├── /impact
+│   │   └── /get-involved
 │   │
-│   └── /ventures                      # Ventures
-│       ├── /overview                  # Overview
-│       ├── /portfolio                 # Portfolio
-│       ├── /opportunities             # Opportunities
-│       └── /partnerships              # Partnerships
+│   └── /ventures
+│       ├── /overview
+│       ├── /portfolio
+│       ├── /opportunities
+│       └── /partnerships
 │
-├── /projects                          # PROJECTS (Master Portfolio)
-│   ├── /architecture                  # Architecture Portfolio
-│   ├── /creative                      # Creative Portfolio
-│   ├── /urban                         # Urban Projects
-│   ├── /development                   # Development Projects
-│   ├── /foundation                    # Foundation Initiatives
-│   └── /ventures                      # Venture Portfolio
+├── /projects
+│   ├── /architecture
+│   ├── /creative
+│   ├── /urban
+│   ├── /development
+│   ├── /foundation
+│   └── /ventures
 │
-├── /journal                           # JOURNAL (Editorial & Insights)
-│   ├── /ideas                         # Ideas
-│   ├── /research                      # Research
-│   ├── /projects                      # Projects
-│   ├── /cities                        # Cities
-│   ├── /design                        # Design
-│   ├── /sustainability                # Sustainability
-│   └── /community                     # Community
+├── /journal
+│   ├── /ideas
+│   ├── /research
+│   ├── /projects
+│   ├── /cities
+│   ├── /design
+│   ├── /sustainability
+│   └── /community
 │
-├── /moses-musabi                      # MOSES MUSABI (Personal Brand/Thought Leadership)
-│   ├── /profile                       # Profile
-│   ├── /architecture                  # Architecture Focus
-│   ├── /urban-policy                  # Urban Policy
-│   ├── /research                      # Research
-│   ├── /writing                       # Writing
-│   ├── /projects                      # Projects
-│   ├── /speaking                      # Speaking Engagements
-│   └── /cv                            # Curriculum Vitae
+├── /moses-musabi
+│   ├──/profile
+│   ├──/architecture
+│   ├──/urban-policy
+│   ├── /research
+│   ├── /writing
+│   ├── /projects
+│   ├── /speaking
+│   └── /cv
 │
-├── /careers                           # CAREERS
+├── /careers
 │
-└── /contact                           # CONTACT
+└── /contact
 
 
 ## Technology
