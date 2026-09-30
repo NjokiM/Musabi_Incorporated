@@ -77,9 +77,9 @@ musabi-incorporated/
 │   └── /community
 │
 ├── /moses-musabi
-│   ├──/profile
-│   ├──/architecture
-│   ├──/urban-policy
+│   ├── /profile
+│   ├── /architecture
+│   ├── /urban-policy
 │   ├── /research
 │   ├── /writing
 │   ├── /projects
